@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@1,200&display=swap');
+
+
+*{
+	font-family: 'Poppins', sans-serif;
+}
+.header{
+	background: url(https://www.lamborghini.com/sites/it-en/files/DAM/lamborghini/facelift_2019/homepage/families-gallery/mobile/Aventador_ultimae_model_mobile.png);
+	background-attachment:fixed;
+	background-size: cover;
+	background-position:center;
+	height: 900px;
+	background-repeat:no-repeat;
+	padding-top: 4em;
+	padding-bottom: 4em;
+}
+.overLay{
+	background:rgb(158 158 158/36%) ;
+	height:900px;
+	position: absolute;
+	max-width: 100%;
+	max-height:100%;
+}
+.header-content{
+	letter-spacing: 8px;
+	position: absolute;
+	top: 200px;
+	left: 560px;
+}
+.about{
+	padding-top: 4em;
+	padding-bottom: 4em;
+	background: #212529;
+	color: white;
+
+}
+.products{
+	background: #343a40;
+	color:black;
+	padding-top:4em;
+	padding-bottom:4em;
+
+}
+.team img{
+	border: 5px solid #343a40;
+
+}
+.team{
+	padding-top:2em;
+	padding-bottom:2em;
+}
+.personDesk{
+	background:#343a40;
+	color: white;
+
+}
+.personDesk span{
+	font-size: 0.8em;
+	color: lightgrey;
+}
+.feedback{
+	background: #343a40;
+	color: white;
+	padding-top:2em;
+	padding-bottom:2em;
+}
+.feedback col-sm-4{
+	align-self: center;
+}
+.c1{
+	height: 723.5px;
+}
+.c2{
+	height: 723.5px;
+}
+.c4 button{
+	position: relative;
+	bottom: 2px;
+}
+.bt-6{
+	position: relative;
+	bottom: 14px;
+}
